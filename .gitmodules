@@ -1,0 +1,3 @@
+[submodule "MFContainer"]
+	path = MFContainer
+	url = git@github.com:RuslanShkhaliev/MFContainer.git
