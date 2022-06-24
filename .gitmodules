@@ -1,5 +1,6 @@
 [submodule "MFContainer"]
 	path = MFContainer
 	url = git@github.com:RuslanShkhaliev/MFContainer.git
+[submodule "Microfront-submodule1"]
 	path = Microfront-submodule1
 	url = git@github.com:RuslanShkhaliev/Microfront-submodule1.git
